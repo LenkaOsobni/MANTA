@@ -1,3 +1,3 @@
 # MANTA
-projekt
-jj
+rozšířená bakalářská práce
+open source
